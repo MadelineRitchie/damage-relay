@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DamageRelay.Tests/DamageRelay.Tests.fsproj" />
+  <Project Path="DamageRelay/DamageRelay.fsproj" />
+</Solution>
